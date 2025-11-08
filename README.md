@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🌟 IA Generativa: Tudo que Você Precisa Saber:  Link Interativo: https://ia-generativa-tudo-que-v-6p81ar6.gamma.site/
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é um eBook interativo sobre **Inteligência Artificial Generativa**, apresentando seus fundamentos, principais modelos, aplicações práticas e como a **AWS** está revolucionando o uso da IA no ambiente corporativo.  
+O conteúdo foi desenvolvido em formato multimodal, com **narração da introdução e conclusão em vídeo criada por IA**, **design visual dinâmico** e **integração entre diferentes ferramentas generativas**.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT (OpenAI)** → Geração e estruturação do texto do eBook  
+- **Leonardo AI** → Criação da imagem da narradora virtual  
+- **HeyGen** → Criação do vídeo e voz da narradora IA  
+- **Gamma App** → Montagem inicial do eBook interativo  + Link/Site para publicação
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Pesquisa e roteiro**: elaboração do conteúdo explicando conceitos de IA Generativa e aplicações na AWS.  
+2. **Criação visual**: geração da narradora virtual com Leonardo AI.  
+3. **Narração por IA**: uso do HeyGen para dar voz e expressividade à personagem.  
+4. **Montagem**: desenvolvimento do eBook no Gamma App e exportação para PowerPoint para incorporar o vídeo original.  
+5. **Finalização**: ajustes de layout, fluidez e exportação para apresentação.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- eBook completo com **10 seções informativas** e visual moderno.  
+- **Narradora virtual em vídeo**, explicando o tema de forma envolvente e acessível.  
+- Conteúdo didático que une **tecnologia, criatividade e aprendizado sobre AWS**.  
+- Entrega compatível com os objetivos do **Bootcamp DIO - AWS IA Generativa**.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Criar este projeto foi uma experiência incrível de integração entre ferramentas de IA e entender como é possivel chegar em resultados tão legais. 
+O maior aprendizado foi perceber que a IA vai dominar o mundo, é o presente e não mais o futuro. 
+Foi um verdadeiro exercício de inovação — e o resultado mostra o poder da IA quando aplicada de forma prática e acessível.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
